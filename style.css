@@ -20,7 +20,10 @@ button{
   display: inline;
 }
 
-th{
+tr{
   border-bottom: 2px solid;
   border-top: 2px solid;
+}
+tr:hover{
+  background-color:#a51417
 }
