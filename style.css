@@ -21,11 +21,11 @@ button{
 }
 
 tr{
-  border-bottom: 2px solid;
-  border-top: 2px solid;
+  border-bottom: 1px solid;
+  border-top: 1px solid;
 }
 tr:hover{
-  background-color:#ffff00;
+  background-color:#789b4a;
 }
 
 #begin{
