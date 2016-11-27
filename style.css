@@ -19,3 +19,8 @@ button{
 .col-md-4{
   display: inline;
 }
+
+th{
+  border-bottom: 2px solid;
+  border-top: 2px solid;
+}
