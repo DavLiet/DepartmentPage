@@ -28,6 +28,9 @@ tr{
 tr:hover{
   background-color:#789b4a;
 }
+ td{
+ margin: 3px;
+}
 
 #begin{
   background-color: #c8c8c8;
