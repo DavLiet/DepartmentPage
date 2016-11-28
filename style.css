@@ -9,7 +9,7 @@
 
 .navbar-default {
  background-color: #a51417; 
-  opacity: 0.2;
+  opacity: 0.8;
 }
 
 button{
@@ -39,6 +39,7 @@ p.quote{
 
 .style{
   border: 2px solid;
-    border-radius: solid
+    border-radius: solid;
+  border-color: #6c7373;
 }
 
