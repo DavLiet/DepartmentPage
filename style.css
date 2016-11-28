@@ -37,5 +37,6 @@ p.quote{
 }
 
 h1.style{
-  border-style: ridge;
+  border: 2px solid;
+    border-radius: 25px;
 }
