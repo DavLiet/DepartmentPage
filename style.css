@@ -36,7 +36,7 @@ p.quote{
   font-style:italic;
 }
 
-h1.style{
+.style{
   border: 2px solid;
     border-radius: 25px;
 }
