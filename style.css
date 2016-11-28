@@ -35,3 +35,7 @@ tr:hover{
 p.quote{
   font-style:italic;
 }
+
+h1.style{
+  border-style: ridge;
+}
