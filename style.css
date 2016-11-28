@@ -38,7 +38,7 @@ p.quote{
 
 .style{
   border: 2px solid;
-    border-radius: 25px;
+    border-radius: 15px 50px;
 }
 div.row{
   border-radius: 15px 50px 30px;
