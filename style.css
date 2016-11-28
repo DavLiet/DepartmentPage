@@ -31,3 +31,7 @@ tr:hover{
 #begin{
   background-color: #c8c8c8;
 }
+
+.quote{
+  font-style:italic;
+}
