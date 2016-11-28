@@ -39,10 +39,6 @@ p.quote{
 
 .style{
   border: 2px solid;
-    border-radius: 15px 50px;
+    border-radius: solid
 }
-div.row{
-  border-radius: 15px 50px 30px;
-    background-color: #c8c8c8;
-  
-}
+
