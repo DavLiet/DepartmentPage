@@ -33,7 +33,7 @@ tr:hover{
 }
 
 #begin{
-  background-color: #c8c8c8;
+  background-color:  #8FBC8F;
 }
 
 p.quote{
@@ -42,29 +42,31 @@ p.quote{
 
 .style{
   border: 2px solid;
-    border-radius: solid;
+    border-radius: 10px;
   border-color: #6c7373;
+  background-color: #67c8c7;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 #admissions{
-  border: 2px solid;
-   border-radius: 15px 50px 30px:
+ 
+   border-radius: 10px;
   border-color: #a51417;
-  background-color: #ffffff;
+  background-color: #BCEE68	;
 }
 
 #prospective{
   
-  background-color: #67c8c7;
+  background-color: #8FBC8F	;
 }
 
 #bottom{
-  background-color: #789b4a;
+  background-color:  #8FBC8F;
 }
 
 
 #wow{
-  background-color: #f8be15;
+  background-color:  #8FBC8F;
 }
 
 #slogan{
@@ -77,7 +79,10 @@ p.quote{
 
 h1{
   margin: 3px;
+  padding-left: 30px;
 }
 h2{
   margin: 3px;
 }
+
+
